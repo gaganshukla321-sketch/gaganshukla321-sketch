@@ -67,9 +67,9 @@ A project focused on managing hospital-related information and basic operations.
 
 Tech Stack: Java • Database
 
-📊 GitHub Statistics
+p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaganshukla321-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gagan's GitHub Stats" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaganshukla321-sketch&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganshukla321-sketch&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganshukla321-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
 
 🔥 GitHub Streak
 
